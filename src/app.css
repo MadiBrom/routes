@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100vh;
+  width: 100vw;
+  margin: 0;
+  overflow: hidden;
+}
+
+/* Root Container Styling */
+#root {
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+}
